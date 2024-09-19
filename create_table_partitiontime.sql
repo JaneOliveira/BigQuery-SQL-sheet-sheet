@@ -5,7 +5,8 @@ CREATE TABLE `project_id.dataset_name.table_name`
     -- Defina as colunas da sua tabela aqui
     id INT64,
     nome STRING,
-    data TIMESTAMP
+    data TIMESTAMP,
+    revenue FLOAT64
 )
 PARTITION BY DATE(_PARTITIONTIME)
 OPTIONS (
