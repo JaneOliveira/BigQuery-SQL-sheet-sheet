@@ -1,3 +1,5 @@
+[Documentação em construção]
+
 # BigQuery - sheet-sheet
 
 Este repositório foi criado para compartilhar queries SQL e códigos em Python voltados para acessar e trabalhar com o Google BigQuery. O BigQuery é uma poderosa ferramenta de análise de dados em larga escala, que permite executar consultas SQL de forma rápida e eficiente em datasets massivos.
